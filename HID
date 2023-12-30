@@ -1,0 +1,7 @@
+Press("GUI r")
+delay(500)
+type("notepad")
+delay(500)
+press("enter")
+delay(500)
+type("Change this to the text you want to be entered into notepad.nn")
